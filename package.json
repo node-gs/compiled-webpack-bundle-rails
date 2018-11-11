@@ -1,5 +1,7 @@
 {
   "name": "rails-webpack",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "submodule": "app/submodule"
+  }
 }
