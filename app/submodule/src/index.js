@@ -10,6 +10,7 @@ function component() {
 
   return element;
 }
+setTimeout(() => console.log('working...'), 1001)
 
 function fn() {
   document.body.appendChild(component());
